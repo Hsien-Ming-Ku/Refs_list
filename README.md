@@ -4,5 +4,6 @@
 
 # Updated news:
 Since Prof. Gary Howell (a very kind and great scholar: https://scholar.google.com/citations?user=aveeuC8AAAAJ&hl=en) 
-had retired from North Carolina State University, His offical homepage is no longer unavailable for accessing the files 
-named "stephens.ps" and "elmres320.ps". In order to make them available for my research studies, I post them here.
+had retired from North Carolina State University, it found that his offical homepage was no longer unavailable for 
+accessing the files named "stephens.ps" and "elmres320.ps". In order to make them available for my research studies, 
+I post them here.
