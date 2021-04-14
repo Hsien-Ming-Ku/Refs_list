@@ -9,6 +9,6 @@ Systems (Ph.D dissertation), Florida Institute of Technology, Melbourne, USA (19
 # Updated news:
 Since Prof. Gary Howell (a very kind and great scholar: https://scholar.google.com/citations?user=aveeuC8AAAAJ&hl=en) 
 had retired from North Carolina State University, it found that his offical homepage was no longer unavailable for 
-accessing the files named "stephens.ps" and "elmres320.ps", but these two files are essential for my research on the 
-iterative algorithms based on the Hessenberg procedure. So, in order to make them available for my research studies, 
+accessing the files named "stephens.ps" and "elmres320.ps", but these two files are very essential for my research development 
+on the iterative algorithms based on the Hessenberg procedure. So, in order to make them available for my research studies, 
 I post them here.
